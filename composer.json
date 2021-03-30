@@ -12,5 +12,8 @@
     "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "7.4.x-dev"
+    },
+    "psr-4": {
+            "neofrek\\blizzard_php\\": "src/"
     }
 }
