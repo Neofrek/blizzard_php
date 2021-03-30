@@ -1,0 +1,16 @@
+{
+    "name": "neofrek/blizzard_php",
+    "description": "Blizzard PHP API Package",
+    "type": "library",
+    "license": "https://github.com/Neofrek/blizzard_php/blob/main/LICENSE",
+    "authors": [
+        {
+            "name": "Neofrek",
+            "email": "neofrek@neofrek.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    }
+}
