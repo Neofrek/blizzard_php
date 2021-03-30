@@ -15,5 +15,12 @@
     },
     "psr-4": {
             "neofrek\\blizzard_php\\": "src/"
+    },
+    "extra": {
+      "laravel": {
+          "providers": [
+              "neofrek\\blizzard_php\\BlizzPHPServiceProvider"
+          ]
+      }
     }
 }
