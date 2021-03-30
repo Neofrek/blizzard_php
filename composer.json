@@ -2,7 +2,7 @@
     "name": "neofrek/blizzard_php",
     "description": "Blizzard PHP API Package",
     "type": "library",
-    "license": "https://github.com/Neofrek/blizzard_php/blob/main/LICENSE",
+    "license": "https://raw.githubusercontent.com/Neofrek/blizzard_php/main/LICENSE",
     "authors": [
         {
             "name": "Neofrek",
